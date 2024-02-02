@@ -1,0 +1,1 @@
+# Azure_Resource_Graph_Queries
